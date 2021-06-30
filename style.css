@@ -1,0 +1,16 @@
+.entrytext {
+    color: darkgray;
+    font-size: 20vw;
+}
+
+.text {
+    color: darkgray;
+    font-size: 20vw;
+    text-align: center;
+}
+
+.button {
+    font-size: 20vw;
+    text-align: center;
+    border-style: solid;
+}
