@@ -5,6 +5,7 @@ window.addEventListener("keydown", (event) => {
     document.getElementById("text").className = "text text-center"; 
     document.getElementById("text").innerHTML = x;
 
+    document.getElementById("button").className = "button";
     document.getElementById("button").innerHTML = event.key;
 })
 
